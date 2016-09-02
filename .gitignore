@@ -8,12 +8,14 @@
 *.exe
 *.o
 *.obj
+*.out
 *.prof
 *.so
 *.suo
 *.swp
 *.test
 *.tst
+go-exercise
 
 # Logs and databases
 *.log
@@ -50,7 +52,7 @@ Thumbs.db
 *.sublime-workspace
 
 # Folders
-!vendor/github.com
+vendor
 bin
 build
 dist
